@@ -1,7 +1,7 @@
 {
-  "name": "cs",
+  "name": "cs-cli",
   "description": "The first cli",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "keywords": [
     "toolkit",
     "cli"
